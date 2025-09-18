@@ -1,0 +1,4 @@
+.venv
+jupyter/.ipynb_checkpoints
+jupyter/myenv
+.gitignore
